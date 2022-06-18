@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:background="#000000"
+    android:orientation="vertical">
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/tenapp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apple Store"
+        android:textSize="40sp"
+        android:textStyle="italic|bold"
+        android:fontFamily="sans-serif-black"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FAFAFA"
+        ></TextView>
+    <ImageView
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:src="@drawable/logo"
+        ></ImageView>
+
+</RelativeLayout>

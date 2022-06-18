@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120668887152",
+    "firebase_url": "https://vanhien-a8a9e.firebaseio.com",
+    "project_id": "vanhien-a8a9e",
+    "storage_bucket": "vanhien-a8a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120668887152:android:aac5a1b9364462e455fcb5",
+        "android_client_info": {
+          "package_name": "com.example.orderts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120668887152-25gnbvnlqtklbm553rvb96b39genjvsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcH8OYEGw6-KnT-5PlXH6ajIYTJNmmjHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120668887152-25gnbvnlqtklbm553rvb96b39genjvsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
